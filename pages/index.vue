@@ -6,8 +6,8 @@ useSeoMeta({
   ogTitle: 'Criação de Sites em Fazenda Rio Grande | andres.dev',
   ogDescription:
     'Landing pages prontas em 7 dias, a partir de R$ 397. Apareça no Google quando seu cliente buscar "perto de mim".',
-  ogImage: 'https://andresdev.com.br/og.png',
-  ogUrl: 'https://andresdev.com.br/',
+  ogImage: 'https://andresdev-fazendariogrande.vercel.app/og.png',
+  ogUrl: 'https://andresdev-fazendariogrande.vercel.app/',
   twitterCard: 'summary_large_image',
 })
 

@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   // -----------------------------------------------------
   runtimeConfig: {
     public: {
-      siteUrl: 'https://andresdev.com.br',
+      siteUrl: 'https://andresdev-fazendariogrande.vercel.app',
       siteName: 'andres.dev — Criação de Sites em Fazenda Rio Grande',
       siteDescription:
         'Criação de landing pages e sites profissionais para o comércio e serviços de Fazenda Rio Grande (PR). Entrega em 7 dias, a partir de R$ 397.',
@@ -45,14 +45,13 @@ export default defineNuxtConfig({
         { property: 'og:site_name', content: 'andres.dev' },
         { property: 'og:locale', content: 'pt_BR' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:image', content: 'https://andresdev.com.br/og.png' },
+        { property: 'og:image', content: 'https://andresdev-fazendariogrande.vercel.app/og.png' },
         // Twitter
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:image', content: 'https://andresdev.com.br/og.png' },
+        { name: 'twitter:image', content: 'https://andresdev-fazendariogrande.vercel.app/og.png' },
       ],
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
-        { rel: 'canonical', href: 'https://andresdev.com.br' },
       ],
     },
   },

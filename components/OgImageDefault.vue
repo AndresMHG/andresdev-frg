@@ -15,7 +15,7 @@ defineProps<{ title?: string }>()
     </div>
     <div class="flex justify-between items-end text-lg">
       <span>📍 Fazenda Rio Grande – PR</span>
-      <span>andresdev.com.br</span>
+      <span>andresdev-fazendariogrande.vercel.app</span>
     </div>
   </div>
 </template>

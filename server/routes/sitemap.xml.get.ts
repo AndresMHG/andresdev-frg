@@ -5,7 +5,7 @@ import { serverQueryContent } from '#content/server'
  * Accesible en /sitemap.xml
  */
 export default defineEventHandler(async (event) => {
-  const SITE_URL = 'https://andresdev.com.br'
+  const SITE_URL = 'https://andresdev-fazendariogrande.vercel.app'
 
   // Rutas estáticas
   const staticRoutes = [

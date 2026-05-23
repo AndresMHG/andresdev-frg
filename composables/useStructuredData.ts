@@ -20,7 +20,7 @@ export function useStructuredData(...schemas: Record<string, any>[]) {
 // Builders type-safe de los schemas más comunes
 // -----------------------------------------------------
 
-const SITE_URL = 'https://andresdev.com.br'
+const SITE_URL = 'https://andresdev-fazendariogrande.vercel.app'
 
 /** LocalBusiness — para SEO local en Fazenda Rio Grande. */
 export const localBusinessSchema = () => ({
