@@ -2,20 +2,48 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
-# Bloqueá AI scrapers indeseados (opcional - comentá si querés permitirlos)
+# AI search & training crawlers — explicitly allowed for discoverability
+# in AI Overviews, ChatGPT Search, Perplexity, Gemini, Copilot, etc.
 User-agent: GPTBot
-Disallow: /
+Allow: /
 
 User-agent: ChatGPT-User
-Disallow: /
+Allow: /
 
-User-agent: CCBot
-Disallow: /
+User-agent: OAI-SearchBot
+Allow: /
 
 User-agent: anthropic-ai
-Disallow: /
+Allow: /
 
 User-agent: Claude-Web
-Disallow: /
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
 
 Sitemap: https://andresdev-fazendariogrande.vercel.app/sitemap.xml

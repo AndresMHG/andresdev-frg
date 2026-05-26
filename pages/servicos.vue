@@ -11,6 +11,30 @@ useStructuredData(
     { name: 'Início', url: '/' },
     { name: 'Serviços', url: '/servicos' },
   ]),
+  serviceSchema({
+    name: 'Landing Page Profissional',
+    description: 'Site de uma página com WhatsApp em destaque, Google Maps, formulário e SEO local básico. Hospedagem 1 ano inclusa.',
+  }),
+  serviceSchema({
+    name: 'Site Institucional Completo',
+    description: 'Site multi-páginas com Sobre, Serviços, Galeria, Depoimentos e Contato. Ideal para negócios consolidados.',
+  }),
+  serviceSchema({
+    name: 'Cardápio Digital com QR Code',
+    description: 'Cardápio online para lanchonetes e restaurantes de Fazenda Rio Grande, com pedido pelo WhatsApp e QR Code de mesa.',
+  }),
+  serviceSchema({
+    name: 'SEO Local e Google Meu Negócio',
+    description: 'Otimização para aparecer em buscas "perto de mim" em Fazenda Rio Grande, com cadastro completo no Google Meu Negócio e Schema LocalBusiness.',
+  }),
+  serviceSchema({
+    name: 'Conteúdo SEO para Blog',
+    description: 'Artigos otimizados de 800+ palavras para buscas locais ("dentista em Fazenda Rio Grande" e similares).',
+  }),
+  serviceSchema({
+    name: 'Manutenção Mensal de Site',
+    description: 'Atualizações ilimitadas, backup semanal, suporte por WhatsApp e relatório mensal de performance.',
+  }),
 )
 
 const servicos = [

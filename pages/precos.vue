@@ -10,6 +10,24 @@ useStructuredData(
     { name: 'Início', url: '/' },
     { name: 'Preços', url: '/precos' },
   ]),
+  offerSchema({
+    name: 'Plano Essencial — Landing Page',
+    description: 'Landing page de 1 página com WhatsApp, Google Maps, SEO local básico, hospedagem 1 ano e domínio .com.br. Entrega em 7 dias.',
+    price: '397',
+    url: '/precos',
+  }),
+  offerSchema({
+    name: 'Plano Profissional — Site Institucional',
+    description: 'Site institucional até 4 seções, Google Meu Negócio, Schema LocalBusiness, integração Instagram. Entrega em 10 dias.',
+    price: '697',
+    url: '/precos',
+  }),
+  offerSchema({
+    name: 'Plano Premium Local — Site + SEO Avançado',
+    description: 'Site completo com blog (2 artigos), Google Analytics 4, pixel Meta, Search Console e treinamento. Entrega em 14 dias.',
+    price: '797',
+    url: '/precos',
+  }),
   faqSchema([
     {
       question: 'Tem mensalidade obrigatória?',

@@ -126,6 +126,25 @@ export const articleSchema = (opts: {
   mainEntityOfPage: opts.url.startsWith('http') ? opts.url : `${SITE_URL}${opts.url}`,
 })
 
+/** Offer — para planes/precios individuales. */
+export const offerSchema = (opts: {
+  name: string
+  description: string
+  price: string
+  url?: string
+}) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Offer',
+  name: opts.name,
+  description: opts.description,
+  price: opts.price,
+  priceCurrency: 'BRL',
+  availability: 'https://schema.org/InStock',
+  seller: { '@id': `${SITE_URL}/#business` },
+  areaServed: ['Fazenda Rio Grande', 'Mandirituba', 'Araucária', 'Curitiba'],
+  url: opts.url ? (opts.url.startsWith('http') ? opts.url : `${SITE_URL}${opts.url}`) : undefined,
+})
+
 /** FAQ — para sección de preguntas frecuentes. */
 export const faqSchema = (items: { question: string; answer: string }[]) => ({
   '@context': 'https://schema.org',

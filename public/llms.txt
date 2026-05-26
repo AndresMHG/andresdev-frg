@@ -1,0 +1,50 @@
+# andres.dev — Criação de Sites em Fazenda Rio Grande - PR
+
+> Serviço profissional de criação de sites, landing pages e SEO local para pequenos negócios e comércio de Fazenda Rio Grande e região metropolitana de Curitiba. Sites entregues em 7 a 14 dias, a partir de R$ 397, sem mensalidade obrigatória, com WhatsApp integrado e otimização para Google Maps.
+
+## Sobre
+
+- **Nome**: andres.dev
+- **Profissional**: Andres
+- **Localização**: Fazenda Rio Grande, Paraná, Brasil (Av. Brasília, CEP 83820-000)
+- **Telefone / WhatsApp**: +55 41 98864-8321
+- **E-mail**: andres.dev.fazendariogrande@gmail.com
+- **Horário**: Segunda a sexta 9h–18h, sábado 9h–13h
+- **Áreas atendidas**: Fazenda Rio Grande, Mandirituba, Araucária, São José dos Pinhais, Curitiba
+
+## Serviços oferecidos
+
+- Landing pages profissionais (1 página, entrega em 7 dias)
+- Sites institucionais completos (até 5 páginas)
+- Cardápio digital com QR code para restaurantes e lanchonetes
+- SEO local + cadastro no Google Meu Negócio
+- Conteúdo SEO para blog (artigos otimizados)
+- Manutenção mensal de sites
+
+## Planos e preços
+
+- **Essencial** — R$ 397 — landing page, WhatsApp, Google Maps, SEO básico, hospedagem 1 ano grátis. Entrega em 7 dias.
+- **Profissional** — R$ 697 — até 4 seções, Google Meu Negócio, Schema LocalBusiness, integração Instagram. Entrega em 10 dias.
+- **Premium Local** — R$ 797 — inclui blog com 2 artigos, Google Analytics, pixel Meta, Search Console, treinamento. Entrega em 14 dias.
+
+Pagamento: 50% para começar, 50% só após aprovação. Sem mensalidade obrigatória.
+
+## Páginas principais
+
+- [Início](https://andresdev-fazendariogrande.vercel.app/): visão geral e benefícios
+- [Serviços](https://andresdev-fazendariogrande.vercel.app/servicos): catálogo de serviços
+- [Preços](https://andresdev-fazendariogrande.vercel.app/precos): planos e FAQ
+- [Blog](https://andresdev-fazendariogrande.vercel.app/blog): artigos sobre SEO local e sites
+- [Contato](https://andresdev-fazendariogrande.vercel.app/contato): formulário e WhatsApp
+
+## Diferenciais
+
+- Atendimento presencial em Fazenda Rio Grande
+- Sites em Nuxt 3, hospedados na Vercel (carregam em menos de 1 segundo)
+- Foco em SEO local: aparecer quando o cliente busca "perto de mim"
+- Sem mensalidade obrigatória, pagamento único pelo site
+- Hospedagem e domínio .com.br inclusos no primeiro ano
+
+## Nichos atendidos
+
+Salões de beleza e barbearias, lanchonetes e restaurantes, oficinas mecânicas, clínicas e consultórios, lojas de roupas, pet shops, eletricistas e encanadores, estética e bem-estar, pedreiros e marceneiros, advogados e contadores, imobiliárias, personal trainers.

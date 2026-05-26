@@ -19,6 +19,33 @@ useStructuredData(
       'Landing pages prontas em 7 dias, otimizadas para SEO local e integradas ao WhatsApp.',
   }),
   breadcrumbSchema([{ name: 'Início', url: '/' }]),
+  faqSchema([
+    {
+      question: 'Quanto custa criar um site em Fazenda Rio Grande?',
+      answer:
+        'Os planos vão de R$ 397 (Essencial, landing page) a R$ 797 (Premium Local, com blog e analytics). O pagamento é único, sem mensalidade obrigatória, dividido em 50% no início e 50% na entrega.',
+    },
+    {
+      question: 'Em quanto tempo o site fica pronto?',
+      answer:
+        'Entre 7 e 14 dias úteis, dependendo do plano. Landing pages do plano Essencial saem em 7 dias; sites do plano Premium Local saem em até 14 dias.',
+    },
+    {
+      question: 'Atende negócios fora de Fazenda Rio Grande?',
+      answer:
+        'Sim. Além de Fazenda Rio Grande, atendo Mandirituba, Araucária, São José dos Pinhais e Curitiba. O atendimento presencial é só em Fazenda Rio Grande; o restante é remoto via WhatsApp.',
+    },
+    {
+      question: 'O site inclui hospedagem e domínio?',
+      answer:
+        'Sim. Todos os planos incluem hospedagem grátis no primeiro ano e domínio .com.br. A partir do segundo ano, a renovação do domínio custa R$ 60/ano.',
+    },
+    {
+      question: 'Preciso entender de tecnologia para usar?',
+      answer:
+        'Não. Cuido de tudo: domínio, hospedagem, e-mail profissional e atualizações. Você só recebe os clientes direto no WhatsApp.',
+    },
+  ]),
 )
 
 const beneficios = [
